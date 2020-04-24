@@ -1,1 +1,2 @@
-# tianchi-Sina-weibo-interactive-prediction
+# 天池项目：新浪微博互动预测
+这项目还是比较有意思，时间序列+文本挖掘。这两块内容，我也是第一次做，收获挺多的。
