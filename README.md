@@ -14,18 +14,7 @@
 时间特征：
 是星期几
 是否周末
-发文时间段（分4  个时间段）
-def hour_cut(x):
-    if 0<=x<=7: #凌晨
-        return 0
-    elif  7<x<=12: #上午
-        return 1
-    elif  12<x<=17: # 下午
-        return 2
-    elif  17<x<=19: # 傍晚
-        return 3
-    elif  19<x<24: # 晚上
-        return 4
+发文时间段（分4  个时间段）凌晨、上午、下午、傍晚、晚上
         
 博文特征：
 用jieba分词，提取关键字。
